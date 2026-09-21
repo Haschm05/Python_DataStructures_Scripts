@@ -6,9 +6,6 @@
 Welcome to my Data Structure Python portfolio! This is a collection of my work from Data Structures: CSC 310.
 This repository serves as a collection point for my projects in this class.
 
-**Language (Every project in this portfolio will use the same language):**
-Python
-
 ---
 
 ## Lab1 & Lab2
@@ -21,6 +18,9 @@ These cover basic scripting that focuses on taking and using input data with the
 - Using and displaying lists 
 - Applying sorting algorithms and comprehending their development.
 
+**Language:**
+Python
+
 ---
 
 ## Crypto Messages
@@ -32,6 +32,11 @@ the purpose of this code is to build a safe simulator that creates these files.
 - Understanding how to utilize the 4 main Python data structures
 - Applying file read/write concepts
 - *New* exploring the Python "base64" library functionality
+
+**Language:**
+Python
+
+---
 
 **Author:** Hayden Schmidt
 
